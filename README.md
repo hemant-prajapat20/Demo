@@ -2,8 +2,8 @@
 This is Demo for Git &amp; Github Class.
 
 # Teacher
-hemant 
+hemant prajpat 
 
 
 # student
-Delta Student
+ Student you
